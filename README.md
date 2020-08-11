@@ -1,3 +1,2 @@
 # hello-world
-just another respository
-22, NTUEE B.S
+22, TW, NTUEE B.S
